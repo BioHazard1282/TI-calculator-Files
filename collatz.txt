@@ -1,0 +1,10 @@
+Input N
+Repeat Ans=1
+toString(N
+If inString("02468",sub(Ans,length(Ans),1:Then
+round(int(N)/2,0
+Else
+3N+1
+End:Ans→N
+Disp Ans
+End
